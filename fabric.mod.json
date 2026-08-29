@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "yourclient",
+  "version": "1.0.0",
+  "entrypoints": {
+    "client": [
+      "com.yourname.client.ClientMod"
+    ]
+  }
+}
